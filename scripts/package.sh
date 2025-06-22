@@ -5,7 +5,7 @@ set -e
 PKG_NAME="martinreadssvc"
 PKG_VERSION="0.0.1"
 ARCH="amd64"
-MAINTAINER="Your Name <youremail@example.com>"
+MAINTAINER="Marcin Iwanicki <iwan@icode.pl>"
 DESCRIPTION="MartinReadsSvc Go API service"
 BIN_PATH="bin/${PKG_NAME}"
 PKG_DIR="bin/package_build"
